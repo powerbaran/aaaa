@@ -1,0 +1,88 @@
+customerID,ServiceType,ServiceStatus,gender,SeniorCitizen,dateOfReceipt,Agent,Technician,brand,Product,ProductGroup,serial,model,user,Cost,ErrorCode,Churn
+7590-VHVEG,rapair,close,Female,0,1399/01/01,10123,974242,gplus,LCD TV,Video and Audio,101c43tqf123,43lh,h-jalali,311313,e1,No
+5575-GNVDE,install,open,Male,1,1399/01/02,80177,974243,lg,Washing Machine,Home Appliances,101c43tsf123,wm99,h-lavasani,0,e4,No
+3668-QPYBK,regarant,cancel,Male,2,1399/01/03,11002,974244,nexar,Dish Washer Machine,Home Appliances,101c43tqf124,kd24,s-piri,154332,e6,Yes
+7795-CFOCW,rapair,suspended,Male,0,1399/01/04,33003,974245,gplus,Side By Side,Home Appliances,101c43tsf124,sg1,m-shekarlian,207664,e4,No
+9237-HQITU,install,close,Female,1,1399/01/05,10156,974246,lg,Refrigerator,Home Appliances,101c43tqf125,rf15,n-ahmadi,0,e2,Yes
+9305-CDSKC,regarant,open,Female,0,1399/01/06,80177,974247,nexar,SRAC(Single),Home ventilation system,101c43tsf125,sv246,k-irandoost,3131414,e1,Yes
+1452-KIOVK,rapair,cancel,Male,0,1399/01/07,80166,974248,gplus,Microwave Owen,Home Appliances,101c43tqf126,ms97,salemi,41414141,e4,No
+6713-OKOMC,install,suspended,Female,0,1399/01/08,25401,974249,lg,Audio System & Amplifier,Video and Audio,101c43tsf126,r13,h-jalali,0,e6,No
+7892-POOKP,regarant,close,Female,0,1399/01/09,25000,974250,nexar,Blu-ray Player,Video and Audio,101c43tqf127,dv245,h-lavasani,141414,e4,Yes
+6388-TABGU,rapair,open,Male,1,1399/01/10,8600,974251,gplus,DVD Player,Video and Audio,101c43tsf127,d1456,s-piri,3131314,e2,No
+9763-GRSKD,install,cancel,Male,0,1399/01/11,10123,974252,lg,Home theater System,Video and Audio,101c43tqf128,h998,m-shekarlian,1414,e1,No
+7469-LKBCI,regarant,suspended,Male,2,1399/01/12,80177,974253,nexar,DVD Recorder,Video and Audio,101c43tsf128,dvd33,n-ahmadi,1,e4,No
+8091-TTVAX,rapair,close,Male,0,1399/01/13,11002,974254,gplus,Airpurifier,Home Appliances,101c43tqf129,a456,k-irandoost,414141,e6,No
+0280-XJGEX,install,open,Male,1,1399/01/14,33003,974255,lg,OLED TV,Video and Audio,101c43tsf129,oledc7,salemi,4,e4,Yes
+5129-JLPIS,regarant,cancel,Male,0,1399/01/15,10156,974256,nexar,Monitor TV,Video and Audio,101c43tqf130,tvm24,h-jalali,4,e2,No
+3655-SNQYZ,rapair,suspended,Female,0,1399/01/16,80177,974257,gplus,WRAC,Home ventilation system,101c43tsf130,wr44,h-lavasani,77757,e1,No
+8191-XWSZG,install,close,Female,0,1399/01/17,80166,974258,lg,Gas Cooker,Home Appliances,101c43tqf131,g44,s-piri,665646,e4,No
+9959-WOFKT,regarant,open,Male,1,1399/01/18,25401,974259,nexar,Clothes_Styler,Home Appliances,101c43tsf131,c56,m-shekarlian,1,e6,No
+4190-MFLUW,rapair,cancel,Female,2,1399/01/19,25000,974260,gplus,Gplus LCD TV,Video and Audio,101c43tqf132,gtv55,n-ahmadi,6465252,e4,Yes
+4183-MYFRB,install,suspended,Female,1,1399/01/20,8600,974261,lg,Gplus Washing Machine,Home Appliances,101c43tsf132,gwm44,k-irandoost,0,e2,No
+8779-QRDMV,regarant,close,Male,2,1399/01/21,25000,974262,nexar,Gplus Dish Washer Machine,Home Appliances,101c43tqf133,gdw33,salemi,141,e1,Yes
+1680-VDCWW,rapair,open,Male,0,1399/01/22,8600,974263,gplus,Gplus Side By Side,Home Appliances,101c43tsf133,gr46,h-jalali,1414,e4,No
+1066-JKSGK,install,cancel,Male,0,1399/01/23,10123,974264,lg,Gplus Refrigerator,Home Appliances,101c43tqf134,gs67,h-lavasani,0,e6,Yes
+3638-WEABW,regarant,suspended,Female,0,1399/01/24,80177,974265,nexar,Gplus SRAC Single,Home ventilation system,101c43tsf134,gc33,s-piri,5456363636,e4,No
+6322-HRPFA,rapair,close,Male,3,1399/01/25,11002,974266,gplus,Gplus Microwave Owen,Home Appliances,101c43tqf135,mw77,m-shekarlian,0,e2,No
+6865-JZNKO,install,open,Female,0,1399/01/26,33003,974267,lg,Gplus Audio System & Amplifier,Video and Audio,101c43tsf135,ga31,n-ahmadi,23131313,e1,No
+6467-CHFZW,regarant,cancel,Male,0,1399/01/27,10156,974268,nexar,Gplus DVD Player,Video and Audio,101c43tqf136,gdv12,k-irandoost,414141,e4,Yes
+8665-UTDHZ,rapair,suspended,Male,2,1399/01/28,80177,974269,gplus,Gplus Airpurifier,Home Appliances,101c43tsf136,gap11,salemi,0,e6,Yes
+5248-YGIJN,install,close,Male,2,1399/01/29,80166,974270,lg,Gplus LCD Smart White Board,Video and Audio,101c43tqf137,glcd11,h-jalali,0,e4,No
+8773-HHUOZ,regarant,open,Female,0,1399/01/30,25401,974271,nexar,Gplus All in one,Video and Audio,101c43tsf137,gall6,h-lavasani,313313,e2,Yes
+3841-NFECX,rapair,cancel,Female,1,1399/01/31,25000,974272,gplus,Gplus Mouse & keyboard,Video and Audio,101c43tqf138,gmo11,s-piri,1,e1,No
+4929-XIHVW,install,suspended,Male,1,1399/01/24,8600,974273,lg,Gplus Monitor,Video and Audio,101c43tsf138,gmon11,m-shekarlian,3111131231,e4,No
+6827-IEAUQ,regarant,close,Female,0,1399/01/25,8600,974274,nexar,Gplus Android TV Box,Video and Audio,101c43tqf139,gp9,n-ahmadi,0,e6,No
+7310-EGVHZ,rapair,open,Male,2,1399/01/26,80177,974275,gplus,LCD TV,Video and Audio,101c43tsf139,43lh,k-irandoost,356366,e4,No
+3413-BMNZE,install,cancel,Male,1,1399/01/27,80166,974276,lg,Washing Machine,Home Appliances,101c43tqf140,wm100,salemi,363,e2,No
+6234-RAAPL,regarant,suspended,Female,0,1399/01/28,25401,974277,nexar,Dish Washer Machine,Home Appliances,101c43tsf140,kd25,h-jalali,36,e1,No
+6047-YHPVI,rapair,close,Male,0,1399/01/29,25000,974278,gplus,Side By Side,Home Appliances,101c43tqf141,sg2,h-lavasani,3,e4,Yes
+6572-ADKRS,install,open,Female,0,1401/01/07,8600,974279,lg,Refrigerator,Home Appliances,101c43tsf141,rf16,s-piri,63633,e6,No
+5380-WJKOV,regarant,cancel,Male,0,1401/01/08,10123,974280,nexar,SRAC(Single),Home ventilation system,101c43tqf142,sv247,m-shekarlian,496403828,e4,Yes
+8168-UQWWF,rapair,suspended,Female,0,1401/01/09,80177,974281,gplus,Microwave Owen,Home Appliances,101c43tsf142,ms98,n-ahmadi,510189866,e2,Yes
+8865-TNMNX,install,close,Male,2,1401/01/10,11002,974282,lg,Audio System & Amplifier,Video and Audio,101c43tqf143,r14,k-irandoost,523975904,e1,No
+9489-DEDVP,regarant,open,Female,0,1401/01/11,33003,974283,nexar,Blu-ray Player,Video and Audio,101c43tsf143,dv246,salemi,537761942,e4,No
+9867-JCZSP,rapair,cancel,Female,0,1401/01/12,10156,974284,gplus,DVD Player,Video and Audio,101c43tqf144,d1457,h-jalali,551547980,e6,No
+4671-VJLCL,install,suspended,Female,0,1401/01/13,80177,974285,lg,Home theater System,Video and Audio,101c43tsf144,h999,h-lavasani,565334017,e4,No
+4080-IIARD,regarant,close,Female,2,1401/01/14,80166,974286,nexar,DVD Recorder,Video and Audio,101c43tqf145,dvd34,s-piri,579120055,e2,No
+3714-NTNFO,rapair,open,Female,0,1401/01/15,25401,974287,gplus,Airpurifier,Home Appliances,101c43tsf145,a457,m-shekarlian,592906093,e1,No
+5948-UJZLF,install,cancel,Male,0,1401/01/16,25000,974288,lg,OLED TV,Video and Audio,101c43tqf146,oledc8,n-ahmadi,606692131,e4,No
+7760-OYPDY,regarant,suspended,Female,0,1401/01/17,8600,974289,nexar,Monitor TV,Video and Audio,101c43tsf146,tvm25,k-irandoost,620478169,e6,Yes
+7639-LIAYI,rapair,close,Male,0,1401/01/18,25401,974290,gplus,WRAC,Home ventilation system,101c43tqf147,wr45,salemi,634264207,e4,No
+2954-PIBKO,install,open,Female,0,1401/01/19,25000,974291,lg,Gas Cooker,Home Appliances,101c43tsf147,g45,h-jalali,648050245,e2,No
+8012-SOUDQ,regarant,cancel,Female,1,1401/01/20,8600,974292,nexar,Clothes_Styler,Home Appliances,101c43tqf148,c57,h-lavasani,661836283,e1,No
+9420-LOJKX,rapair,suspended,Female,1,1401/01/21,10123,974293,gplus,Gplus LCD TV,Video and Audio,101c43tsf148,gtv56,s-piri,675622320,e4,Yes
+6575-SUVOI,install,close,Female,1,1401/01/22,80177,974294,lg,Gplus Washing Machine,Home Appliances,101c43tqf149,gwm45,m-shekarlian,689408358,e6,No
+7495-OOKFY,regarant,open,Female,1,1401/01/23,11002,974295,nexar,Gplus Dish Washer Machine,Home Appliances,101c43tsf149,gdw34,n-ahmadi,703194396,e4,Yes
+4667-QONEA,rapair,cancel,Female,1,1401/01/24,33003,974296,gplus,Gplus Side By Side,Home Appliances,101c43tqf150,gr47,k-irandoost,716980434,e2,No
+1658-BYGOY,install,suspended,Male,1,1401/01/25,10156,974297,lg,Gplus Refrigerator,Home Appliances,101c43tsf150,gs68,salemi,730766472,e1,Yes
+8769-KKTPH,regarant,close,Female,1,1401/01/26,80177,974298,nexar,Gplus SRAC Single,Home ventilation system,101c43tqf151,gc34,h-jalali,744552510,e4,No
+5067-XJQFU,rapair,open,Male,1,1401/01/27,80166,974299,gplus,Gplus Microwave Owen,Home Appliances,101c43tsf151,mw78,h-lavasani,758338548,e6,No
+3957-SQXML,install,cancel,Female,0,1401/01/28,25401,974300,lg,Gplus Audio System & Amplifier,Video and Audio,101c43tqf152,ga32,s-piri,772124586,e4,No
+5954-BDFSG,regarant,suspended,Female,0,1401/01/29,25000,974301,nexar,Gplus DVD Player,Video and Audio,101c43tsf152,gdv13,m-shekarlian,785910623,e2,No
+0434-CSFON,rapair,close,Female,0,1401/01/30,8600,974302,gplus,Gplus Airpurifier,Home Appliances,101c43tqf153,gap12,n-ahmadi,799696661,e1,No
+1215-FIGMP,install,open,Male,0,1401/01/31,25401,974303,lg,Gplus LCD Smart White Board,Video and Audio,101c43tsf153,glcd12,k-irandoost,813482699,e4,No
+0526-SXDJP,regarant,cancel,Male,0,1402/01/01,25000,974304,nexar,Gplus All in one,Video and Audio,101c43tqf154,gall7,salemi,827268737,e6,No
+0557-ASKVU,rapair,suspended,Female,0,1401/01/02,8600,974305,gplus,Gplus Mouse & keyboard,Video and Audio,101c43tsf154,gmo12,h-jalali,841054775,e4,No
+5698-BQJOH,install,close,Female,1,1402/01/02,25401,974306,lg,Gplus Monitor,Video and Audio,101c43tqf155,gmon12,h-lavasani,854840813,e2,Yes
+5122-CYFXA,regarant,open,Female,0,1401/01/03,25000,974307,nexar,Gplus Android TV Box,Video and Audio,101c43tsf155,gp10,s-piri,868626851,e1,No
+8627-ZYGSZ,rapair,cancel,Male,0,1402/01/03,8600,974308,gplus,LCD TV,Video and Audio,101c43tqf156,43lh,m-shekarlian,882412889,e4,No
+3410-YOQBQ,install,suspended,Female,1,1401/01/04,10123,974309,lg,Washing Machine,Home Appliances,101c43tsf156,wm101,n-ahmadi,896198926,e6,No
+3170-NMYVV,regarant,close,Female,0,1402/01/04,80177,974310,nexar,Dish Washer Machine,Home Appliances,101c43tqf157,kd26,k-irandoost,909984964,e4,No
+7410-OIEDU,rapair,open,Male,0,1401/01/05,11002,974311,gplus,Side By Side,Home Appliances,101c43tsf157,sg3,salemi,923771002,e2,No
+2273-QCKXA,install,cancel,Male,1,1402/01/05,10123,974312,lg,Refrigerator,Home Appliances,101c43tqf158,rf17,h-jalali,937557040,e1,No
+0731-EBJQB,regarant,suspended,Female,0,1401/01/06,80177,974313,nexar,SRAC(Single),Home ventilation system,101c43tsf158,sv248,h-lavasani,951343078,e4,No
+1891-QRQSA,rapair,close,Male,1,1402/01/06,11002,974314,gplus,Microwave Owen,Home Appliances,101c43tqf159,ms99,s-piri,965129116,e6,No
+8028-PNXHQ,install,open,Male,0,1401/01/07,33003,974315,lg,Audio System & Amplifier,Video and Audio,101c43tsf159,r15,m-shekarlian,978915154,e4,No
+5630-AHZIL,regarant,cancel,Female,0,1402/01/07,10156,974316,nexar,Blu-ray Player,Video and Audio,101c43tqf160,dv247,n-ahmadi,992701191,e2,No
+2673-CXQEU,rapair,suspended,Female,2,1401/01/08,80177,974317,gplus,DVD Player,Video and Audio,101c43tsf160,d1458,k-irandoost,1006487229,e1,No
+6416-JNVRK,install,close,Female,0,1402/01/08,80166,974318,lg,Home theater System,Video and Audio,101c43tqf161,h1000,salemi,1020273267,e4,No
+5590-ZSKRV,regarant,open,Female,0,1401/01/09,25401,974319,nexar,DVD Recorder,Video and Audio,101c43tsf161,dvd35,h-jalali,1034059305,e6,No
+0191-ZHSKZ,rapair,cancel,Male,1,1402/01/09,25000,974320,gplus,Airpurifier,Home Appliances,101c43tqf162,a458,h-lavasani,1047845343,e4,No
+3887-PBQAO,install,suspended,Female,0,1401/01/10,8600,974321,lg,OLED TV,Video and Audio,101c43tsf162,oledc9,s-piri,1061631381,e2,No
+5919-TMRGD,regarant,close,Female,0,1402/01/10,80166,974322,nexar,Monitor TV,Video and Audio,101c43tqf163,tvm26,m-shekarlian,1075417419,e1,Yes
+8108-UXRQN,rapair,open,Female,1,1401/01/11,25401,974323,gplus,WRAC,Home ventilation system,101c43tsf163,wr46,n-ahmadi,1089203457,e4,No
+9191-MYQKX,install,cancel,Female,0,1402/01/11,25000,974324,lg,Gas Cooker,Home Appliances,101c43tqf164,g46,k-irandoost,1102989494,e6,Yes
+9919-YLNNG,regarant,suspended,Female,0,1401/01/12,8600,974325,nexar,Clothes_Styler,Home Appliances,101c43tsf164,c58,salemi,1116775532,e4,No
+0318-ZOPWS,rapair,close,Female,0,1402/01/12,10123,974326,gplus,Gplus LCD TV,Video and Audio,101c43tqf165,gtv57,h-jalali,1130561570,e2,No
+4445-ZJNMU,install,open,Male,0,1401/01/13,80177,974327,lg,Gplus Washing Machine,Home Appliances,101c43tsf165,gwm46,h-lavasani,1144347608,e1,No
+4808-YNLEU,regarant,cancel,Female,0,1402/01/13,11002,974328,nexar,Gplus Dish Washer Machine,Home Appliances,101c43tqf166,gdw35,s-piri,1158133646,e4,No
